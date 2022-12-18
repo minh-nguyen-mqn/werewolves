@@ -1,4 +1,4 @@
-***Werewolves:***
+#Werewolves
 
 Authors: Solomon Golden, Mai Hoang, Minh Nguyen
 
