@@ -1,4 +1,4 @@
-#Werewolves
+# Zorkia
 
 Authors: Solomon Golden, Mai Hoang, Minh Nguyen
 
