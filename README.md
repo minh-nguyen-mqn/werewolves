@@ -4,13 +4,13 @@ Authors: Solomon Golden, Mai Hoang, Minh Nguyen
 
 Credit to Charlie Curtsinger for: socket, message and util.
 
-Re-creation of the game werewolves.
-In our version of werewolf, 7 players are required to play the game.
+Re-creation of the game Werewolves.
+In our version of Werewolves, 7 players are required to play the game.
 
 
 Connection:
 --------------------------------------------------
-* All code needs to be run on mathlan machines.
+* All code needs to be run on MathLan machines.
 * The server code needs to be run first(./server), it will output a port that all users must connect to by typing: ./user ‘hostname’ ‘port #’
 
 Game initialization:
