@@ -1,6 +1,6 @@
 # Werewolves
 
-Authors: Solomon Golden, Mai Hoang, Minh Nguyen
+Authors: Minh Nguyen, Solomon Golden, Mai Hoang
 
 Credit to Charlie Curtsinger for: socket, message and util.
 
